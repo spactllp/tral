@@ -1,7 +1,7 @@
 {
   "name": "Wiki.js over Tailscale",
   "description": "Deploy an open-source wiki app only accessible over your Tailscale network.",
-  "repository": "https://github.com/soniaappasamy/tailscale-heroku-wiki-quick-deploy",
+  "repository": "https://github.com/spactllp/tral",
   "logo": "https://tailscale.com/static/logo.svg",
   "keywords": ["tailscale", "wiki", "heroku"],
   "website": "https://tailscale.com/",
